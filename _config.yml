@@ -1,3 +1,4 @@
 markdown: kramdown
 baseurl: /samalfadev
 exclude: ['README.md']
+permalink: pretty
